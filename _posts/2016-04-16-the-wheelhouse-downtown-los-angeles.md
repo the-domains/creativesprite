@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-13T11:12:59.416Z'
+datePublished: '2016-07-13T11:25:20.727Z'
 sourcePath: _posts/2016-04-16-the-wheelhouse-downtown-los-angeles.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/culture/the-wheelhouse-bicycles-coffee-los-angeles'
@@ -17,7 +17,7 @@ keywords:
   - space
 related: []
 author: []
-dateModified: '2016-07-13T11:12:58.658Z'
+dateModified: '2016-07-13T11:25:20.333Z'
 title: 'The Wheelhouse, Downtown Los Angeles'
 app_links: []
 publisher:
@@ -33,7 +33,7 @@ description: >-
   accessories.
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
