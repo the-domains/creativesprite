@@ -1,0 +1,14 @@
+layout_spectrum: 0.20441312668845057
+typography_spectrum: 0.7197742343414575
+color:
+  brandStrength: 0.551507445750758
+  lightness: 0.7144075601827353
+  saturation: 0.8061748833861202
+  rhythmicContrast: 0.39841114054434
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: creativeSprite
