@@ -6,9 +6,9 @@ color:
   saturation: 0.8061748833861202
   rhythmicContrast: 0.39841114054434
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
 name: creativeSprite
